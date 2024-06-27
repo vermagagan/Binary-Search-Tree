@@ -1,18 +1,23 @@
-## Getting Started
+# Binary Search Tree Practice Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the Binary Search Tree Practice Repository! Here, you'll find a collection of Binary Search Tree (BST) questions that I've practiced to enhance my understanding and proficiency in using BSTs.
 
-## Folder Structure
+## About Binary Search Trees
 
-The workspace contains two folders by default, where:
+A Binary Search Tree is a binary tree data structure where each node has at most two children, referred to as the left child and the right child. For each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater than the node. BSTs are used in various applications, including searching, sorting, and maintaining a dynamic set of ordered elements.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Contributions
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Contributions are welcome! If you've solved a Binary Search Tree problem that's not included here, feel free to submit a pull request with your solution implementation along with test cases.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Support
 
-## Dependency Management
+If you encounter any issues or have any questions, feel free to open an issue in the repository. I'll do my best to address it promptly.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy coding with Binary Search Trees! 🚀
